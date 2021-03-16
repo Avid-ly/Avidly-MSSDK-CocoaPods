@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MSSDK'
-  s.version          = '1.0.03'
-  s.summary          = 'MSSDK 1.0.03'
+  s.version          = '1.0.04'
+  s.summary          = 'MSSDK 1.0.04'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-MeteorShowSDK 1.0.03
+MeteorShowSDK 1.0.04
                        DESC
 
   s.homepage         = 'https://guojunliu.github.io'
