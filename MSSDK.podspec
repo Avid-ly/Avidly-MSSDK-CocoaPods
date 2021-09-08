@@ -16,7 +16,7 @@ MeteorShowSDK 1.1.0.2
   s.homepage         = 'https://guojunliu.github.io'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "steve" => "909476821@qq.com" }
-  s.source           = { :git => 'https://github.com/Avid-ly/Avidly-iOS-MSSDK-CocoaPods.git', :tag => s.version }
+  s.source           = { :git => 'https://github.com/Avid-ly/Avidly-iOS-MSSDK-CocoaPods.git', :tag => "#{s.version}.xcode" }
 
   s.ios.deployment_target = '10.0'
 
