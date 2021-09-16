@@ -40,13 +40,13 @@
 
 @interface MSSDK : NSObject
 
-#pragma mark - init
+#pragma mark - Init
 
 + (void)initSDK;
 
 + (void)initSDKCompletion:(void(^)(void))completionBlock;
 
-#pragma mark - reward
+#pragma mark - Reward
 
 + (BOOL)hasRewardAdAvailable;
 
