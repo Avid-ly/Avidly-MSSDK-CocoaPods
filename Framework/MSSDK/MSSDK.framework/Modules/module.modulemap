@@ -1,6 +1,0 @@
-framework module MSSDK {
-  umbrella header "MSSDK.h"
-
-  export *
-  module * { export * }
-}

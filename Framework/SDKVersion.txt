@@ -1,1 +1,1 @@
-MSSDK 2.0.0.1
+MSSDK 0.0.0.1.debug
