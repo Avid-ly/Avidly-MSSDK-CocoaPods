@@ -4,6 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/MSSDK.h</key>
+		<data>
+		IvMBiDT0FJKdNC6YSKbvbJJ6MJY=
+		</data>
+		<key>Headers/MSSDKVersion.h</key>
+		<data>
+		ahIpcYi2uTBphe6/Q4njBeMQOAw=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		JmTzl/46G1vuDeunPDQE4E3CnaU=
@@ -15,6 +23,28 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/MSSDK.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IvMBiDT0FJKdNC6YSKbvbJJ6MJY=
+			</data>
+			<key>hash2</key>
+			<data>
+			BdH5nOaAEMgaDAWxtuNCP42c7A5hEydEY/5ZBlS0uD4=
+			</data>
+		</dict>
+		<key>Headers/MSSDKVersion.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ahIpcYi2uTBphe6/Q4njBeMQOAw=
+			</data>
+			<key>hash2</key>
+			<data>
+			QoWtXewNeObgbpDLYEIGw4VENfghlgmxFXIaMSdaE70=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
