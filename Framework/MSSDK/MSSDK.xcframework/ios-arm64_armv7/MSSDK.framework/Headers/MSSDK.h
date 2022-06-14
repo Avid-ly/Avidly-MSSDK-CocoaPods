@@ -46,6 +46,12 @@
 
 + (void)initSDKCompletion:(void(^)(void))completionBlock;
 
+#pragma mark - Version
+
++ (NSString *)sdkVersion;
+
++ (NSString *)sdkNetwork;
+
 #pragma mark - Reward
 
 + (BOOL)hasRewardAdAvailable;
