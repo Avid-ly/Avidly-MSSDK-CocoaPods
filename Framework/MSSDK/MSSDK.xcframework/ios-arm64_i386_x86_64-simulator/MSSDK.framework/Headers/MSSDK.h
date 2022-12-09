@@ -23,6 +23,11 @@
 //准备发放奖励
 - (void)MSRewardVideoAdDidRewardUserWithReward;
 
+@optional
+
+//激励视频广告信息
+- (void)MSRewardVideoAdDidImpression:(NSDictionary *)impression;
+
 @end
 
 @protocol MSInterstitialDelegate <NSObject>
@@ -35,6 +40,11 @@
 
 //插屏广告关闭
 - (void)MSInterstitialAdDidClose;
+
+@optional
+
+//插屏联盟广告信息
+- (void)MSInterstitialAdDidImpression:(NSDictionary *)impression;
 
 @end
 

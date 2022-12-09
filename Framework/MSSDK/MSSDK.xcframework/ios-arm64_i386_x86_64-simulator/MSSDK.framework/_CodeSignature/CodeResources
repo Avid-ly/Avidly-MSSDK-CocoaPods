@@ -6,11 +6,15 @@
 	<dict>
 		<key>Headers/MSSDK.h</key>
 		<data>
-		9RbdXj9PogPNcoBmdARZgllxW74=
+		+cJL8zwWZnqwOK6kzXiF1GxETBA=
+		</data>
+		<key>Headers/MSSDKVersion.h</key>
+		<data>
+		kSp3dFwf5G+CLJdpeG7fjrNFzs0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xGqNnXcTQ77dzAvC+g+hsqR/814=
+		iJtMs+2zxiiKgO71bR9/CZ7RUJ8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -23,11 +27,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9RbdXj9PogPNcoBmdARZgllxW74=
+			+cJL8zwWZnqwOK6kzXiF1GxETBA=
 			</data>
 			<key>hash2</key>
 			<data>
-			AB7z+D8k8MHl4CDwNCWI2/dCP+S7FoJ4yZNSX6NYD6U=
+			fmfhAYld647cg5NGSn6KOo4HwGqOm2FEFv8qLPoq5E8=
+			</data>
+		</dict>
+		<key>Headers/MSSDKVersion.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kSp3dFwf5G+CLJdpeG7fjrNFzs0=
+			</data>
+			<key>hash2</key>
+			<data>
+			LANRYQQeeQWlkjswVpEIQSkhTuRWwzztxlGwk/gKk2Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
