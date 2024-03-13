@@ -10,15 +10,19 @@
 		</data>
 		<key>Headers/MSSDKVersion.h</key>
 		<data>
-		csfq0/6ZvKDQH4MhMvMyqBMXBIA=
+		2BzZ/Mvy81waNfCj5MpAaNiRvwY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gZ+/bGeO0774Uknd9h6ompv4BwU=
+		7bjGFj2LLyI4VJsnAPQ3HDd3AxY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		ryI4AXzn3uFdkRMQbOT4oxWtUXk=
+		KeaLak7/nTxKw2N+w+JvAOMVPWw=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		5c+BQr8s4ycsNBeEicmAlR9kFT8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -38,22 +42,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			csfq0/6ZvKDQH4MhMvMyqBMXBIA=
+			2BzZ/Mvy81waNfCj5MpAaNiRvwY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Soruak7BRVzUt+qt1oiuX8Fk0x9AotjxdAjFvOD8zWQ=
+			x+Lc+4DPjY29fisaLaH2q/1ak1goKhLLY7F0dqXL8Aw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ryI4AXzn3uFdkRMQbOT4oxWtUXk=
+			KeaLak7/nTxKw2N+w+JvAOMVPWw=
 			</data>
 			<key>hash2</key>
 			<data>
-			0hbofYRyNg3uGMEN+/MS3PjgqT8VKnccgbqjXUvCpmY=
+			BsA8GA7UMLlg6DHjcjkd95CF35KyjQmS9kfAMyzNwjM=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5c+BQr8s4ycsNBeEicmAlR9kFT8=
+			</data>
+			<key>hash2</key>
+			<data>
+			7SCJbTEY4m62E4HcIJYmgsoV5f9eySnwXWcvnCqahlA=
 			</data>
 		</dict>
 	</dict>

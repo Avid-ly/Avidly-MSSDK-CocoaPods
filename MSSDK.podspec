@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MSSDK'
-  s.version          = '4.0.0.2'
-  s.summary          = 'MSSDK 4.0.0.2'
+  s.version          = '4.1.0.1'
+  s.summary          = 'MSSDK 4.1.0.1'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-MeteorShowSDK 4.0.0.2
+MeteorShowSDK 4.1.0.1
                        DESC
 
   s.homepage         = 'https://guojunliu.github.io'
@@ -18,7 +18,7 @@ MeteorShowSDK 4.0.0.2
   s.author           = { "steve" => "909476821@qq.com" }
   s.source           = { :git => 'https://github.com/Avid-ly/iOS-MSSDK-CocoaPods.git', :tag => s.version }
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '12.0'
 
   s.library = 'sqlite3', 'z', 'c++', 'xml2', 'resolv'
 
