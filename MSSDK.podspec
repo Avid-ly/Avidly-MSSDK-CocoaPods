@@ -25,6 +25,9 @@ MeteorShowSDK 4.1.0.1
   s.frameworks = 'QuartzCore', 'MediaPlayer', 'CoreMedia', 'CoreGraphics', 'CFNetwork', 'WebKit', 'WatchConnectivity', 'SystemConfiguration', 'StoreKit', 'Social', 'MessageUI','JavaScriptCore','EventKit','CoreTelephony','AVFoundation','AdSupport'
 
   s.vendored_frameworks = 'Framework/MSSDK/MSSDK.xcframework'
+  s.resource_bundles = {
+    'MSSDK_Privacy' => ['Framework/MSSDK/MSSDK.xcframework/ios-arm64/**/PrivacyInfo.xcprivacy']
+  }
   
   valid_archs = ['armv7', 'armv7s', 'x86_64', 'arm64']
   s.xcconfig = {
