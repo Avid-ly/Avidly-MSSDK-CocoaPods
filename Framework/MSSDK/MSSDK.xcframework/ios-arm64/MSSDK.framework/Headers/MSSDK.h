@@ -92,5 +92,7 @@
 
 + (void)openLog:(BOOL)open;
 
++ (void)showMediationDebugger;
+
 @end
 
