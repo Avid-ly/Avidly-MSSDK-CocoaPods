@@ -94,5 +94,11 @@
 
 + (void)showMediationDebugger;
 
+#pragma mark - UMP
+
++ (void)umpRequestConsentInfoUpdateAndShow:(UIViewController *)vc completion:(void(^)(NSError *error))handler;
+
++ (BOOL)umpCanRequestAds;
+
 @end
 
